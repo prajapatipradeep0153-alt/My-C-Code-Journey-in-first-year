@@ -1,0 +1,3 @@
+pradeep 100
+ajay 200
+sameer 400
